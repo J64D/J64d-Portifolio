@@ -735,7 +735,7 @@ body{
     background: #c70039;
     transition: all .4s ease;
 }
-.jquery-progress{
+.Django-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -748,7 +748,19 @@ body{
     border-radius: 10px;
     background: #c70039;
 }
-.seo-progress{
+.Python-progress{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:84%;
+    border-radius: 10px;
+    transition: all .4s ease;
+    background: #c70039;
+}.Figma-progress{
     position: absolute;
     top:10%;
     left:1%;
